@@ -1,3 +1,3 @@
 ## Hello GitHub 👋
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/info-CH/info-CH/main/pic.gif" />
+<img align="left" alt="GIF" src="https://github.com/Neoleex/Neoleex/blob/main/pic.gif" />
